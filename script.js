@@ -1,6 +1,6 @@
 var audio = new Audio('assets/sentmessage.mp3');
 var contactString = "<div class='social'> <a target='_blank' href='tel:+917678362064'> <div class='socialItem' id='call'><img class='socialItemI' src='images/phone.svg'/><label class='number'>7678362064</label></div> </a> <a href='mailto:kratham002@gmail.com'> <div class='socialItem'><img class='socialItemI' src='images/gmail.svg' alt=''></div> </a> <a target='_blank' href='https://github.com/kratham001'> <div class='socialItem'><img class='socialItemI' src='images/github.svg' alt=''></div> </a> <a href='https://www.linkedin.com/in/vinayak-patil-793bb5206/' target='_blank' rel='noopener noreferrer'> <div class='socialItem'><img class='socialItemI' src='images/linkedin.svg' alt=''></div> </a> </div>";
-var resumeString = "<img src='images/resumeThumbnail.png' class='resumeThumbnail'><div class='downloadSpace'><div class='pdfname'><img src='images/pdf.png'><label>Vinayak Resume.pdf</label></div><a href='assets/Vinayak Patil&#39;s Resume.pdf' download='Vinayak_Patil_Resume.pdf'><img class='download' src='images/downloadIcon.svg'></a></div>";
+var resumeString = "<img src='images/resumeThumbnail.png' class='resumeThumbnail'><div class='downloadSpace'><div class='pdfname'><img src='images/pdf.png'><label>Kartikay Resume.pdf</label></div><a href='assets/Vinayak Patil&#39;s Resume.pdf' download='Kartikay_Resume.pdf'><img class='download' src='images/downloadIcon.svg'></a></div>";
 
 function startFunction() {
     setLastSeen();
