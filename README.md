@@ -2,9 +2,9 @@
 ## _Chatting Bot Like Design (Whatsapp like interface)_
 
 
-- [Running Site](https://vinayak-09.github.io/)
+- [Running Site](https://kratham001.github.io/My-Portfolio/)
 
-[![N|Solid](images/demo.gif)](https://vinayak-09.github.io/)
+[![N|Solid](images/demo.gif)]([https://vinayak-09.github.io/](https://kratham001.github.io/My-Portfolio/)
 
 ## Technologies Used
 
