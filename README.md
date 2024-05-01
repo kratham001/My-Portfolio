@@ -4,7 +4,7 @@
 
 - [Running Site](https://kratham001.github.io/My-Portfolio/)
 
-[![N|Solid](images/demo.gif)](https://kratham001.github.io/My-Portfolio/)
+[![N|Solid](https://kratham001.github.io/My-Portfolio/)
 
 ## Technologies Used
 
